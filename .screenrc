@@ -1,0 +1,7 @@
+vbell off
+
+hardstatus off
+hardstatus alwayslastline
+
+hardstatus string "%{= KW} %H %{= Kw}|%{-} %-Lw%{= bW}%n%f %t%{-}%+Lw"
+## http://www.gnu.org/software/screen/manual/html_node/String-Escapes.html
